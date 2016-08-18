@@ -1,0 +1,21 @@
+{
+  "name": "shuf",
+  "version": "1.0.0",
+  "description": "shuf shuffles its input by outputting a random permutation of its input lines",
+  "bin": "./bin/cli.js",
+  "dependencies": {
+    "split2": "^2.1.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanramage/shuf.git"
+  },
+  "bugs": {
+    "url": "http://github.com/ryanramage/shuf/issues"
+  },
+  "homepage": "http://github.com/ryanramage/shuf"
+}
