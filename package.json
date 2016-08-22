@@ -1,6 +1,6 @@
 {
   "name": "shuf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "shuf shuffles its input by outputting a random permutation of its input lines",
   "bin": "./bin/cli.js",
   "dependencies": {
