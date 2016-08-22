@@ -4,12 +4,15 @@
   "description": "shuf shuffles its input by outputting a random permutation of its input lines",
   "bin": "./bin/cli.js",
   "dependencies": {
+    "lodash.range": "^3.2.0",
+    "lodash.shuffle": "^4.2.0",
+    "lodash.sortby": "^4.7.0",
+    "node-random-number": "^0.1.1",
+    "rc": "^1.1.6",
     "split2": "^2.1.0"
   },
-  "devDependencies": {
-  },
-  "scripts": {
-  },
+  "devDependencies": {},
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/ryanramage/shuf.git"
